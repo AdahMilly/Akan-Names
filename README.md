@@ -10,17 +10,17 @@ This is a web application that takes a user's birthday and calculates the day of
 
 ## Installation
 
-  -Open terminal{Ctrl+Alt+T}
-  -git clone https://github.com/dun1-cmmd/Akan-Names.git
-  -cd Akan-Names
-  -code .
+  - Open terminal{Ctrl+Alt+T}
+  - git clone https://github.com/dun1-cmmd/Akan-Names.git
+  - cd Akan-Names
+  - code .
 
 ### Technologies Used
 
-  -[HTML5]
-  -[CSS]
-  -[Javascript]
-  -[Bootstrap]
+  - HTML5
+  - CSS
+  - Javascript
+  - Bootstrap
 
 
 ### Application features
